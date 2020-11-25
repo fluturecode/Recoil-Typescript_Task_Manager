@@ -1,4 +1,4 @@
-# 🦸‍♂️ Taskmaster
+# 👩🏻‍💻♂️ Taskmaster
 
 Sample todo list app to learn [Recoil](https://recoiljs.org/). Find the [tutorial video here](https://www.youtube.com/watch?v=KBE7Ezn7h0A).
 
